@@ -49,7 +49,7 @@
 		</form>
 
 		<div class="login-footer">
-			<p>© <a href="https://github.com/h70076000/HxznApp/blob/main/bj.jpg" target="_blank" rel="noreferrer">宏兴智能科技 Contributors</a> · Powered by <a href="{{ entityencode(version.disturl ?? '#', true) }}" target="_blank" rel="noreferrer">{{ version.distname }}</a> & <a href="https://github.com/openwrt/luci" target="_blank" rel="noreferrer">{{ version.luciname }}</a></p>
+			<p>© <a href="https://github.com/h70076000/HxznApp/blob/main/bj.jpg" target="_blank" rel="noreferrer">宏兴智能科技 Contributors</a> · HXZN <a href="{{ entityencode(version.disturl ?? '#', true) }}" target="_blank" rel="noreferrer">{{ version.distname }}</a> & <a href="https://github.com/openwrt/luci" target="_blank" rel="noreferrer">{{ version.luciname }}</a></p>
 		</div>
 	</div>
 </div>
